@@ -11,4 +11,3 @@ button.textContent = 'XXX'
 div.append(img1)
 div.append(img2)
 div.append(button)
-//privet
